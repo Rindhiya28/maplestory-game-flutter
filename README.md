@@ -1,16 +1,39 @@
-# maplestory
+# 🕹️ MapleStory Flutter Game
 
-A new Flutter project.
+A fun 2D RPG-style side-scroller game built using **Flutter**, inspired by MapleStory. Features dynamic enemies, power-ups, leveling system, and responsive controls — all in a clean, animated UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Key Highlights
 
-A few resources to get you started if this is your first Flutter project:
+- 🎯 **Progressive Difficulty**: More enemies appear over time and get faster  
+- 🧙 **RPG Elements**: EXP, health, player leveling, and lives  
+- ⚡ **Power-Ups**: Health boost, EXP orbs, score bonuses every 15s  
+- 🖼️ **Animated UI**: Score bar, health & EXP progress, game-over screen  
+- 🐌 **Multi-Enemy Logic**: Manage multiple enemies with independent behavior  
+- 🔄 **Smooth State Management**: Timers, animations, and collision detection  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Built With
+
+- **Flutter** & **Dart**  
+- `AnimationController`, `Timer`, `Stack`, `Custom Widgets`  
+- Structured and modular code for easy expansion
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="https://github.com/Rindhiya28/maplestory-game-flutter/blob/main/screen1.jpg?raw=true" width="30%">
+  <img src="https://github.com/Rindhiya28/maplestory-game-flutter/blob/main/screen2.jpg?raw=true" width="30%">
+</p>
+
+---
+
+## 👩‍💻 Designed & Developed By
+
+**Rindhiya A.**  
+🎓 AI & DS Student | Flutter Developer | UI/UX Designer  
+🔗 [GitHub Profile »](https://github.com/Rindhiya28)
